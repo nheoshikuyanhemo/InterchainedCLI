@@ -182,10 +182,10 @@ Note: For pool mining, use external miners (cpuminer/SRBMiner) and point to pool
 If using an encrypted wallet, unlock it with walletpassphrase before sending.
 
 ## cek log 
-``
-tail -f ~/.interchained/debug.log
 ```
+./tail -f ~/.interchained/debug.log
 ```
+
 #### close log 
 CTRL + c
  
