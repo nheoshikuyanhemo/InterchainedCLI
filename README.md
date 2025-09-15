@@ -1,4 +1,4 @@
-# InterchainedCLI
+# InterchainedCLI Help
 
 ## Download 
 ```
