@@ -112,7 +112,10 @@ Tip: If you see connection issues, confirm the seed addnode is set and your fire
 ```
 ./interchained-cli -rpcwallet=miner1 getwalletinfo
 ```
-
+## Look at the list of addresses created 
+```
+./interchained-cli -rpcwallet="miner1" getaddressesbylabel ""
+```
 ## Addresses & Validation:
 
 ### Get a new address (Bech32)
