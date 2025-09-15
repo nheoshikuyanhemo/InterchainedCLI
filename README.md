@@ -183,7 +183,7 @@ If using an encrypted wallet, unlock it with walletpassphrase before sending.
 
 ## cek log 
 ```
-./tail -f ~/.interchained/debug.log
+tail -f ~/.interchained/debug.log
 ```
 
 #### close log 
