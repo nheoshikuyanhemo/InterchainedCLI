@@ -196,7 +196,7 @@ CTRL + c
 ```
 
 
-##Troubleshooting
+## Troubleshooting
 interchained-cli connection refused → Ensure interchainedd is running and using the same datadir. If using non-default datadir, pass -datadir to both daemon and CLI.
 Stuck sync / no peers → Confirm -addnode=seed.interchained.org:17101 is set; try adding more nodes when announced; verify network/firewall.
 RPC auth issues → Prefer cookie auth (default). If using rpcuser/rpcpassword, keep them in interchained.conf and never expose RPC publicly.
