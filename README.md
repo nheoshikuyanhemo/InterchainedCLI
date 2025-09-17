@@ -56,7 +56,7 @@ Default data directories:
 Linux:   ```~/.interchained```
 
 ## Optional Configuration (interchained.conf)
-
+```./nano ~/.interchainned/interchained.conf```
 For persistent settings, create an interchained.conf file in the data directory. Example:
 ```
 daemon=1
