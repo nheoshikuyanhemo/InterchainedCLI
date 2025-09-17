@@ -59,7 +59,7 @@ Linux:   ```~/.interchained```
 
 For persistent settings, create an interchained.conf file in the data directory. Example:
 ```
-./nano ~/.interchainned/interchained.conf
+nano ~/.interchainned/interchained.conf
 ```
 ```
 daemon=1
