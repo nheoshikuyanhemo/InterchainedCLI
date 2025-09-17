@@ -5,7 +5,7 @@
 git clone https://github.com/nheoshikuyanhemo/interchained
 ```
 ```
-cd Interchained
+cd interchained
 ```
 ## Dependencies 
 ```
